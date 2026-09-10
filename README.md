@@ -1,3 +1,0 @@
-# payment-instrument-service
-
-Initializing...
